@@ -33,8 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS properties
 - (A bit of) Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 With this project, I mainly practised what I already knew. However, it was specially useful to practice with centering elements.
