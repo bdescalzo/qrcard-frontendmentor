@@ -45,6 +45,8 @@ body {
 .card__paragraph {
   color: hsl(220, 15%, 55%);
 }
-.attribution {
-  display: block;
+
+.card__attribution {
+  font-size: 70%;
+  margin-top: 20px;
 }
