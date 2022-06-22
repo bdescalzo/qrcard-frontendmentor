@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Roboto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: block;
+  /* margin: 0 auto;
+  margin-top: 40px; */
+  border: thin solid transparent;
+  border-radius: 20px;
+  padding: 20px;
+  width: 350px;
+  height: auto;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+}
+
+.card__qrcode {
+  border-radius: 12px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.card__text {
+  padding: 0px 15px;
+  margin-bottom: 20px;
+}
+.card__title {
+  margin-bottom: 30px;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
+
+.card__paragraph {
+  color: hsl(220, 15%, 55%);
+}
+.attribution {
+  display: block;
+}
